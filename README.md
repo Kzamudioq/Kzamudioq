@@ -25,4 +25,4 @@ uas_pilot              Aerocivil certified · DJI Matrice 4E · photogrammetry
 
 Building **MARR** (computer vision for traffic, *every pixel, a decision*) and **MAPIA** (geomatics + AI). Older repos are embedded-systems coursework from FIUBA.
 
-<sub>Bogotá, Colombia · UTC−5 · open to remote geospatial AI work · <a href="mailto:Kzamudioquitero@gmail.com">email</a> · <a href="https://www.linkedin.com/in/REPLACE">linkedin</a></sub>
+<sub>Bogotá, Colombia · UTC−5 · open to remote geospatial AI work · <a href="mailto:Kzamudioquintero@gmail.com">email</a> · <a href="https://www.linkedin.com/in/karen-tatiana-zamudio-6b1747154/">linkedin</a></sub>
